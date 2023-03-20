@@ -1,0 +1,23 @@
+[
+    {
+        "model": "rickhouseapi.type",
+        "pk": 1,
+        "fields": {
+            "name": "Bourbon"
+        }
+    },
+    {
+        "model": "rickhouseapi.type",
+        "pk": 2,
+        "fields": {
+            "name": "Rye"
+        }
+    },
+    {
+        "model": "rickhouseapi.type",
+        "pk": 3,
+        "fields": {
+            "name": "Irish"
+        }
+    }
+]

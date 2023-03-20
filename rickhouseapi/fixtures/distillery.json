@@ -1,0 +1,23 @@
+[
+    {
+        "model": "rickhouseapi.distillery",
+        "pk": 1,
+        "fields": {
+            "name": "Evan Williams"
+        }
+    },
+    {
+        "model": "rickhouseapi.distillery",
+        "pk": 2,
+        "fields": {
+            "name": "Bulliet"
+        }
+    },
+    {
+        "model": "rickhouseapi.distillery",
+        "pk": 3,
+        "fields": {
+            "name": "Jameson"
+        }
+    }
+]

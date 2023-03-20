@@ -1,0 +1,10 @@
+[
+    {
+        "model": "rickhouseapi.user",
+        "pk": 1,
+        "fields": {
+            "name": "Adam",
+            "bio": "The Kid"
+        }
+    }
+]

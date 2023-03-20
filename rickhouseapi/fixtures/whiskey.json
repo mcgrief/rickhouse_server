@@ -1,0 +1,36 @@
+[
+    {
+        "model": "rickhouseapi.whiskey",
+        "pk": 1,
+        "fields": {
+            "label": "Evan Williams Bottled-In-Bond",
+            "year": "2018",
+            "proof": "100",
+            "type": 1,
+            "user": 1
+
+        }
+    },
+    {
+        "model": "rickhouseapi.whiskey",
+        "pk": 2,
+        "fields": {
+            "label": "Bulliet Rye",
+            "year": "2013",
+            "proof": "90",
+            "type": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "rickhouseapi.whiskey",
+        "pk": 3,
+        "fields": {
+            "label": "Jameson",
+            "year": "2019",
+            "proof": "80",
+            "type": 3,
+            "user": 1
+        }
+    }
+]

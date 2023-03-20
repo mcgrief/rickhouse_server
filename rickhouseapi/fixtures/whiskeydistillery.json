@@ -1,0 +1,26 @@
+[
+    {
+        "model": "rickhouseapi.whiskeydistillery",
+        "pk": 1,
+        "fields": {
+            "whiskey": 1,
+            "distillery": 1
+        }
+    },
+    {
+        "model": "rickhouseapi.whiskeydistillery",
+        "pk": 2,
+        "fields": {
+            "whiskey": 2,
+            "distillery": 2
+        }
+    },
+    {
+        "model": "rickhouseapi.whiskeydistillery",
+        "pk": 3,
+        "fields": {
+            "whiskey": 3,
+            "distillery": 3
+        }
+    }
+]
